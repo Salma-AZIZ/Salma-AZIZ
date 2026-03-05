@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Salma-AZIZ
-- 👀 I’m interested in data science project
+- 👀 I’m interested in data science and IA project
 - 🌱 I’m currently learning IA Agents and Agentic IA
 
 <!---
