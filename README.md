@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Salma-AZIZ
 - 👀 I’m interested in data science project
-- 🌱 I’m currently learning computer vision and programming to improve my data science skills
-
+- 🌱 I’m currently learning IA Agents and Agentic IA
 
 <!---
 - 💞️ I’m looking to collaborate on ...
